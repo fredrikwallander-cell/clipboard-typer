@@ -1,0 +1,6 @@
+/target/
+/target-*/
+*.pdb
+clipboard-typer-hyperv*.exe
+/clipboard-typer.exe
+hyperv-helper.log
